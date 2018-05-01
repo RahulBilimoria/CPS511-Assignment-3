@@ -1,0 +1,14 @@
+﻿  QuadMesh.cpp
+  main.cpp
+c:\users\rahul\documents\schoolwork\ryerson\sem 7\cps 511\assignments\cps511assignment3\cps511assignment3\main.cpp(97): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\rahul\documents\schoolwork\ryerson\sem 7\cps 511\assignments\cps511assignment3\cps511assignment3\main.cpp(102): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\rahul\documents\schoolwork\ryerson\sem 7\cps 511\assignments\cps511assignment3\cps511assignment3\main.cpp(103): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\rahul\documents\schoolwork\ryerson\sem 7\cps 511\assignments\cps511assignment3\cps511assignment3\main.cpp(104): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\rahul\documents\schoolwork\ryerson\sem 7\cps 511\assignments\cps511assignment3\cps511assignment3\main.cpp(106): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\rahul\documents\schoolwork\ryerson\sem 7\cps 511\assignments\cps511assignment3\cps511assignment3\main.cpp(107): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\rahul\documents\schoolwork\ryerson\sem 7\cps 511\assignments\cps511assignment3\cps511assignment3\main.cpp(108): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\rahul\documents\schoolwork\ryerson\sem 7\cps 511\assignments\cps511assignment3\cps511assignment3\main.cpp(109): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\rahul\documents\schoolwork\ryerson\sem 7\cps 511\assignments\cps511assignment3\cps511assignment3\main.cpp(527): warning C4101: 'mouse': unreferenced local variable
+  Generating Code...
+  CPS511Assignment3.vcxproj -> C:\Users\Rahul\Documents\Schoolwork\Ryerson\Sem 7\CPS 511\Assignments\CPS511Assignment3\Debug\CPS511Assignment3.exe
+  CPS511Assignment3.vcxproj -> C:\Users\Rahul\Documents\Schoolwork\Ryerson\Sem 7\CPS 511\Assignments\CPS511Assignment3\Debug\CPS511Assignment3.pdb (Full PDB)
